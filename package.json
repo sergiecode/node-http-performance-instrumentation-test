@@ -1,0 +1,20 @@
+{
+  "name": "node-http-performance-instrumentation-test",
+  "version": "1.0.0",
+  "description": "Ejemplo de instrumentación HTTP en Node.js para medir latencia, timings de red y métricas reales de ejecución",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "dev": "node --watch main.js"
+  },
+  "keywords": [
+    "http",
+    "performance",
+    "instrumentation",
+    "metrics",
+    "timing"
+  ],
+  "author": "",
+  "license": "MIT"
+}
